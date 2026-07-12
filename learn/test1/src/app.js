@@ -5,6 +5,8 @@ const app = express();
 app.use(express.json()); //middleware
 
 
+
+
 // note={
 //     title: "my first note",
 //     description: "this is desc for note 1"
